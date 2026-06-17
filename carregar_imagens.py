@@ -2,9 +2,6 @@ import os
 import cv2
 import numpy as np
 
-# ==========================================
-# 2. CARREGAMENTO E PRÉ-PROCESSAMENTO
-# ==========================================
 def carregar_e_processar_imagens(dir_dataset, tamanho=(128, 128)):
     X = []
     y = []
