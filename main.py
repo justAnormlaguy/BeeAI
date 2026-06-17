@@ -13,8 +13,8 @@ from gerar_graficos import gerar_todos_os_graficos
 
 # TREINAMENTO E AVALIAÇÃO
 def main():
-    dir_origem_kaggle = '../flowers'
-    dir_dataset_simbolico = '../dataset_meliferas'
+    dir_origem_kaggle = './flowers'
+    dir_dataset_simbolico = './dataset_meliferas'
 
     print("A estruturar diretórios e ficheiros...")
     organizar_dataset_simbolico(dir_origem_kaggle, dir_dataset_simbolico)
