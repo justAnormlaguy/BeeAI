@@ -7,8 +7,8 @@ from sklearn.metrics import accuracy_score
 
 from tensorflow.keras import layers, models
 from tratar_imagens import organizar_dataset_simbolico
-from venv.carregar_Imagens import carregar_e_processar_imagens
-from venv.gerar_graficos import gerar_todos_os_graficos
+from carregar_imagens import carregar_e_processar_imagens
+from gerar_graficos import gerar_todos_os_graficos
 
 
 # TREINAMENTO E AVALIAÇÃO
