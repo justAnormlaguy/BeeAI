@@ -6,6 +6,8 @@
 * **Lucas de Oliveira Lima - RA: 23000810-2**
 * **Alexandre Lozano de Souza - RA: 23003803-2**
 * **Gabriel do Nascimento Cano Andrade - RA: 23000555-2** 
+* **Daniel Andrade Mendonça -
+RA:23000397-2**
 
 ---
 
